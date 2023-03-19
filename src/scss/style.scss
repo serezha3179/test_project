@@ -1,0 +1,12 @@
+@import './reset.scss';
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+.container {
+    max-width: 600px;
+    padding: 20px;
+    margin: 0 auto;
+}
